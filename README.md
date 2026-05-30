@@ -7,8 +7,8 @@ BOM:
 |---|---|---|---|
 | 1 | DC Motor | 3V - 6V | Propeller power |
 | 1 | LED Indicator | Standard 6mm | Power Status LED |
-| 1 | Fixed Resistor | 220-Ohm (\(\Omega\)) 1/4W | LED Protection |
-| 10 | Fixed Resistors | 100-Ohm (\(\Omega\)) 1/4W | Speed Resistor Bundle |
+| 1 | Fixed Resistor | 220-Ohm 1/4W | LED Protection |
+| 10 | Fixed Resistors | 100-Ohm 1/4W | Speed Resistor Bundle |
 | 3 | Slide Switches | SPDT 3-Pin Panel Mount | Power and Speed Control |
 | 1 | Battery Enclosure | 3x AA (4.5V) | Main Power |
 
