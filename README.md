@@ -5,13 +5,12 @@ A miniature jet for desktop display
 BOM:
 | Qty | Item Description | Specification / Value | Source Reference |
 |---|---|---|---|
-| 1 | DC Motor | 3V - 6V Mini Hobby Type | Jet Turbine Core |
-| 1 | LED Indicator | Standard 3mm or 5mm | Console Status Beacon |
+| 1 | DC Motor | 3V - 6V | Propeller power |
+| 1 | LED Indicator | Standard 6mm | Power Status LED |
 | 1 | Fixed Resistor | 220-Ohm (\(\Omega\)) 1/4W | LED Protection |
-| 10 | Fixed Resistors | 100-Ohm (\(\Omega\)) 1/4W | Speed Array Bundle |
-| 3 | Slide Switches | SPDT 3-Pin Panel Mount | Power / Throttle Logic |
-| 1 | Battery Enclosure | 3x AA or AAA Cell (4.5V) | Main Power Source |
-| — | Hookup Wire | Solid Core / Stranded Gauge | Circuit Interconnects |
+| 10 | Fixed Resistors | 100-Ohm (\(\Omega\)) 1/4W | Speed Resistor Bundle |
+| 3 | Slide Switches | SPDT 3-Pin Panel Mount | Power and Speed Control |
+| 1 | Battery Enclosure | 3x AA (4.5V) | Main Power |
 
 Wiring:
 Resistor bundle is ten 100 Ohm resistors wired together in parallel.
