@@ -1,0 +1,7 @@
+Qty,Item Description,Specification Value,Source Reference
+1,DC Motor,3V to 6V Propeller power,Jet Turbine Core
+1,LED Indicator,Standard 6mm Power Status LED,Console Status Beacon
+1,Fixed Resistor,220 Ohm 1 over 4W,LED Protection
+10,Fixed Resistors,100 Ohm 1 over 4W,Speed Resistor Bundle
+3,Slide Switches,SPDT 3 Pin Panel Mount,Power and Speed Control
+1,Battery Enclosure,3x AA 4.5V,Main Power
