@@ -38,3 +38,6 @@ Connect Switch B Right Pin straight to Motor Positive.
 
 Step 6: Ground Path
 Connect Motor Negative straight to Battery Negative.
+
+
+F3D files can be found in the releases section.
