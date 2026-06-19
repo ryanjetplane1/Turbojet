@@ -40,4 +40,4 @@ Step 6: Ground Path
 Connect Motor Negative straight to Battery Negative.
 
 
-F3D files can be found in the releases section.
+F3D files can be found in the releases section along with a demo of the jet at demo.mov
