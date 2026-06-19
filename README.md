@@ -42,4 +42,4 @@ Connect Motor Negative straight to Battery Negative.
 <img width="1802" height="1480" alt="image" src="https://github.com/user-attachments/assets/acc54919-ec0e-4f00-85f3-74bf21b8bbd3" />
 
 
-F3D files can be found in the releases section along with a demo of the jet at demo.mov
+F3D files can be found in the releases section.
