@@ -5,14 +5,13 @@ A miniature control panel for a 3D printed jet engine that lets you toggle betwe
 
 
 BOM:
-| Qty | Item Description | Specification / Value | Source Reference |
-|---|---|---|---|
-| 1 | DC Motor | 3V - 6V | Propeller power |
-| 1 | LED Indicator | Standard 6mm | Power Status LED |
-| 1 | Fixed Resistor | 220-Ohm 1/4W | LED Protection |
-| 10 | Fixed Resistors | 100-Ohm 1/4W | Speed Resistor Bundle |
-| 3 | Slide Switches | SPDT 3-Pin Panel Mount | Power and Speed Control |
-| 1 | Battery Enclosure | 3x AA (4.5V) | Main Power |
+Qty,Item Description,Specification Value,USD,Link
+1,Motor/Battery/Wires,3V to 12V DC hobby kit,11.99,https://www.amazon.com/gp/product/B08GPPJR1T/
+1,LED Indicator,Standard 6mm Power Status LED,9.99,https://www.amazon.com/gp/product/B09L7X2KPP/
+1,Slide Switches,SPDT 3 Pin Panel Mount,13.99,https://www.amazon.com/gp/product/B0FNNGW3YL/
+1,Solder,Holds wires,8.99,https://www.amazon.com/gp/product/B07Q167J98/
+Total Cost,,,44.96,
+
 
 Wiring:
 Resistor bundle is ten 100 Ohm resistors wired together in parallel.
