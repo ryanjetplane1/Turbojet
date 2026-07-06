@@ -1,6 +1,5 @@
 
 # Turbojet
-<img width="1141" height="983" alt="image" src="https://github.com/user-attachments/assets/03874afa-4345-42aa-a18f-28b39d45579c" />
 <img width="1038" height="646" alt="jetrender" src="https://github.com/user-attachments/assets/64979d24-83e0-4133-ae43-3eae69104449" />
 A miniature control panel for a 3D printed jet engine that lets you toggle between thrust modes. This project was made as a simple hardware build using spare parts bypassing the need for a microcontrollers. The jet runs on a 4.5V battery pack and features 3 control switches. Features include a master power switch, a dedicated status LED, a 50 percent thrust toggle, and a 100 percent full throttle bypass switch. Control is very easy flip Switch 1 to arm the system and turn on the status LED, flip Switch 1 to run at a 50 percent power, and flip Switch 2 while switch 1 is on to run at 100 percent power. 
 
