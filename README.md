@@ -57,8 +57,6 @@ Assembly:
 
 
 
-https://github.com/user-attachments/assets/45522566-f36e-487c-9ad0-c6a2aada0394
-
 
 
 F3D files can be found in the releases section.
