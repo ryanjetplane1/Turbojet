@@ -46,10 +46,10 @@ Connect Motor Negative straight to Battery Negative.
 <img width="1802" height="1480" alt="image" src="https://github.com/user-attachments/assets/acc54919-ec0e-4f00-85f3-74bf21b8bbd3" />
 
 Assembly:
-
+<img width="899" height="970" alt="info1" src="https://github.com/user-attachments/assets/5c2b96ce-8c1b-45af-8af0-265e582000ee" />
 <img width="744" height="970" alt="info3" src="https://github.com/user-attachments/assets/889d80f0-2123-4dd1-97a4-0f8afb4ce11d" />
 <img width="756" height="988" alt="info2" src="https://github.com/user-attachments/assets/4a0b642e-8be2-4d1e-8506-edbacf76221d" />
-<img width="899" height="970" alt="info1" src="https://github.com/user-attachments/assets/5c2b96ce-8c1b-45af-8af0-265e582000ee" />
+
 <img width="898" height="643" alt="info4" src="https://github.com/user-attachments/assets/fee4142b-1409-4bca-988d-6fd41d4787d0" />
 
 
