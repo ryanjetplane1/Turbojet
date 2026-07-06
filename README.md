@@ -5,12 +5,14 @@ A miniature control panel for a 3D printed jet engine that lets you toggle betwe
 
 
 BOM:
-Qty,Item Description,Specification Value,USD,Link
-1,Motor/Battery/Wires,3V to 12V DC hobby kit,11.99,https://www.amazon.com/gp/product/B08GPPJR1T/
-1,LED Indicator,Standard 6mm Power Status LED,9.99,https://www.amazon.com/gp/product/B09L7X2KPP/
-1,Slide Switches,SPDT 3 Pin Panel Mount,13.99,https://www.amazon.com/gp/product/B0FNNGW3YL/
-1,Solder,Holds wires,8.99,https://www.amazon.com/gp/product/B07Q167J98/
-Total Cost,,,44.96,
+
+| Qty | Item Description | Specification / Value | Source Reference |
+| :--- | :--- | :--- | :--- |
+| 1 | Motor/Battery/Wires | 3V to 12V DC hobby kit | https://www.amazon.com/gp/product/B08GPPJR1T/ |
+| 1 | LED Indicator | Standard 6mm Power Status LED | https://www.amazon.com/gp/product/B09L7X2KPP/ |
+| 1 | Slide Switches | SPDT 3 Pin Panel Mount | https://www.amazon.com/gp/product/B0FNNGW3YL/ |
+| 1 | Solder | Holds wires | https://www.amazon.com/gp/product/B07Q167J98/ |
+| **Total** | | | **$44.96** |
 
 
 Wiring:
