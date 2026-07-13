@@ -62,10 +62,12 @@ Assembly:
 F3D files can be found in the releases section.
 Final product demo video can be found at final.mov
 <div></div>
+
+
+Non photo shopped*
+<img width="4032" height="3024" alt="IMG_8356" src="https://github.com/user-attachments/assets/e7f56380-0f10-49b8-8903-16da14482392" />
+
 Photo shopped for clarity before I ruined the sanding*
 
 
 <img width="1448" height="1086" alt="jetclean" src="https://github.com/user-attachments/assets/0c52f121-9946-4661-9570-f66d833a4bfe" />
-
-Non photo shopped*
-<img width="4032" height="3024" alt="IMG_8356" src="https://github.com/user-attachments/assets/e7f56380-0f10-49b8-8903-16da14482392" />
